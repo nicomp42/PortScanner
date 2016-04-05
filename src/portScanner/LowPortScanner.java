@@ -1,5 +1,9 @@
 /**
+<<<<<<< HEAD
  * WHAT ANIMAL IS BALOGNA
+=======
+ * Hi Matt not Matt Frank
+>>>>>>> origin/master
  * A simple port scanner
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
