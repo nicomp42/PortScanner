@@ -1,5 +1,9 @@
 /**
+<<<<<<< HEAD
+ * WHAT ANIMAL IS BALOGNA
+=======
  * Hi Matt not Matt Frank
+>>>>>>> origin/master
  * A simple port scanner
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
@@ -21,6 +25,7 @@ public class LowPortScanner {
     //System.err.println("This is an error message");
     
     if (args.length > 0) {
+    	//my comment is here
       host = args[0];
     }
     System.out.println("Scanning ports on " + host);
