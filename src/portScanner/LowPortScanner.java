@@ -1,5 +1,5 @@
 /**
- * Hi
+ * Hi Matt not Matt Frank
  * A simple port scanner
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
