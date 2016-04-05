@@ -1,5 +1,5 @@
 /**
- * Hi
+ * WHAT ANIMAL IS BALOGNA
  * A simple port scanner
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
