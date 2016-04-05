@@ -25,10 +25,10 @@ public class LowPortScanner {
     System.out.println("Scanning ports on " + host);
     for (int i = 1; i <= maxPort; i++) {
       try {
-        Socket s = new Socket(host, i);
+        Socket mySocket = new Socket(host, i);
         // if we get this far, we were able to open the socket.
-        // now close it because all we cared about was trying to open it..
-        s.close();
+        // Now close it because all we cared about was trying to open it.
+        mySocket.close();
         System.out.println("There is a server on port " + i + " of " + host);
       }
       catch (UnknownHostException ex) {
