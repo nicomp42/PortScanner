@@ -17,7 +17,7 @@ public class LowPortScanner {
     final int maxPort = 1024;
     String host = "localhost";
 
-    System.err.println("This is an error message");
+    //System.err.println("This is an error message");
     
     if (args.length > 0) {
       host = args[0];
